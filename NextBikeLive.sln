@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBikeLive", "NextBikeLive\NextBikeLive.csproj", "{7EF5CE77-BFE8-47CA-B88F-CB8A280FB3F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextBikeLiveTests", "NextBikeLiveTests\NextBikeLiveTests.csproj", "{B611DDEA-38CF-484D-8A8A-52F1839C728B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EF5CE77-BFE8-47CA-B88F-CB8A280FB3F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF5CE77-BFE8-47CA-B88F-CB8A280FB3F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF5CE77-BFE8-47CA-B88F-CB8A280FB3F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF5CE77-BFE8-47CA-B88F-CB8A280FB3F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B611DDEA-38CF-484D-8A8A-52F1839C728B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B611DDEA-38CF-484D-8A8A-52F1839C728B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B611DDEA-38CF-484D-8A8A-52F1839C728B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B611DDEA-38CF-484D-8A8A-52F1839C728B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {351C1CA4-25E1-49A0-B466-AF814EEAACFB}
+	EndGlobalSection
+EndGlobal

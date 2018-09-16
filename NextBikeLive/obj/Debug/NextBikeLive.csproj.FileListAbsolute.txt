@@ -1,0 +1,8 @@
+C:\Users\jancz\source\repos\NextBikeLive\NextBikeLive\bin\Debug\NextBikeLive.dll
+C:\Users\jancz\source\repos\NextBikeLive\NextBikeLive\bin\Debug\NextBikeLive.pdb
+C:\Users\jancz\source\repos\NextBikeLive\NextBikeLive\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jancz\source\repos\NextBikeLive\NextBikeLive\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jancz\source\repos\NextBikeLive\NextBikeLive\obj\Debug\NextBikeLive.csprojResolveAssemblyReference.cache
+C:\Users\jancz\source\repos\NextBikeLive\NextBikeLive\obj\Debug\NextBikeLive.csproj.CoreCompileInputs.cache
+C:\Users\jancz\source\repos\NextBikeLive\NextBikeLive\obj\Debug\NextBikeLive.dll
+C:\Users\jancz\source\repos\NextBikeLive\NextBikeLive\obj\Debug\NextBikeLive.pdb
